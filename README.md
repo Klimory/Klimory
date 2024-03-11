@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Klimory 
-
-My name is Klimory! Im learning Godot, Pixel Art to make some games, that will make some people smile. Currently I do this alone, maybe my buddy will join me later I dont know yet.
+Im learning Godot, Pixel Art to make some games, that will make some people smile. Currently I do this alone, maybe my buddy will join me later I dont know yet.
 
 I will upload my games here maybe there are somebody who wanna play it.
 

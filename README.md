@@ -1,16 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I’m @Klimory 
 
-<!--
-**Klimory/Klimory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Klimory! Im learning Godot, Pixel Art to make some games, that will make some people smile. Currently I do this alone, maybe my buddy will join me later I dont know yet.
 
-Here are some ideas to get you started:
+I will upload my games here maybe there are somebody who wanna play it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👀 I’m interested in ... Game Development
+- 🌱 I’m currently learning ... Godot, Pixel Art
+
+<!---
+Klimory/Klimory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
